@@ -1,2 +1,2 @@
 # minecraft-splash-mod
-I made this mod a while ago but basically what it does is when hovering over a potion in your inventory in less than a tick your inv closes, it throws the potion, and than opens your inv back up.
+I made this mod a while ago but basically what it does is when hovering over a potion in your inventory in less than a tick your inv closes, it throws the potion, and than opens your inv back up. To download the file, go to https://github.com/tobin-wq/minecraft-splash-mod/blob/main/instant-splash.jar, then press "View raw"
